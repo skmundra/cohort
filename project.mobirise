@@ -59,7 +59,7 @@
     "sitemapSwitcherAuto": "on",
     "siteUrl": "https://www.cohort.work/",
     "pwa-switcher": true,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "robotsText": "User-agent: *\nDisallow: /\n\n",
     "uniqCompNum": 249,
     "versionPublish": "5.1.4",
     "screenshot": "screenshot.png",
@@ -67,8 +67,8 @@
       "enabled": false
     },
     "cookiesAlert": false,
-    "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
