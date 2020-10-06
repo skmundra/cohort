@@ -67,7 +67,7 @@
       "enabled": false
     },
     "cookiesAlert": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "gdpr": false
   },
   "pages": {
